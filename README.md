@@ -3,6 +3,6 @@
 Game and game engine developed during the Electronic Games subject in Universitat Pompeu Fabra.
 
 
-Author: Pablo Acedo.\\
-Framework by: Javi Agenjo. 
-Assistance: Javi Agenjo.
+Author: Pablo Acedo. <br/>
+Framework by: Javi Agenjo. <br/>
+Assistance: Javi Agenjo. <br/>
